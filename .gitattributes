@@ -1,1 +1,2 @@
 Datasets/*.zip filter=lfs diff=lfs merge=lfs -text
+Datasets/celeba/img_align_celeba/*.jpg filter=lfs diff=lfs merge=lfs -text
