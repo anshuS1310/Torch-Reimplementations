@@ -1,0 +1,20 @@
+# Core Deep Learning Stack
+torch
+torchvision
+torchaudio
+
+# Hardware Optimization & Data Structures (used in cpu2gpu)
+tensordict
+
+# Data Processing & Numerical Ops
+numpy
+pandas
+scipy
+
+# Visualization & Notebook UI
+matplotlib
+ipython
+pillow
+
+# Utils & NLP support
+unicodedata2
